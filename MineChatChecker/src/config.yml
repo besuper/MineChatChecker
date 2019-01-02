@@ -1,0 +1,6 @@
+kick: false
+alertToAdmin: true
+messageKick: "&cYou are kicked because you use MineChat"
+messageAlert: "&c%player% connected with MineChat"
+bypassPermission: "minechat.bypass"
+alertPermission: "minechat.alert"
